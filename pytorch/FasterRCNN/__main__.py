@@ -330,3 +330,5 @@ if __name__ == "__main__":
     predict_all(model = model, split = options.predict_all)
   elif not options.dump_anchors:
     print("Nothing to do. Did you mean to use --train or --predict?")
+
+    #这个git怎么用啊
